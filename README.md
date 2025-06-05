@@ -8,7 +8,7 @@ NutriVision is an AI-powered web app that classifies food items from uploaded im
 
 - 🍔 Predicts food class from an image
 - 🔥 Estimates calories using a custom CSV mapping
-- 🎯 Displays top 3 predictions with confidence %
+- 🎯 Displays predictions with confidence %
 - ⚡ Runs live in Google Colab using Gradio
 - 📸 Instant image upload and preview
 
